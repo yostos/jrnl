@@ -93,3 +93,5 @@ plugins:
           "Configuration File": "設定ファイル"
           "Contributing": "貢献"
           "Contributing to jrnl": "jrnlへの貢献"
+
+site_url: https://yostos.github.io/jrnl/
